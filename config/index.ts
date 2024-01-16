@@ -3,8 +3,8 @@ export const APP_ID = `${process.env.NEXT_PUBLIC_APP_ID}`
 export const API_KEY = `${process.env.NEXT_PUBLIC_APP_KEY}`
 export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
 export const APP_INFO: AppInfo = {
-  title: 'Chat APP',
-  description: '',
+  title: 'Station F AI App',
+  description: 'This LLM based app has been developped and configured specifically for Station F. It represents GenDojo.ai MVP for the founders program application.',
   copyright: '',
   privacy_policy: '',
   default_language: 'en',
